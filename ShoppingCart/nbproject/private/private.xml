@@ -3,22 +3,6 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/D:/I.U.A/Globant/bootcamp/Practicos/ShoppingCart/src/java/Clases/TransactionSingleton.java</file>
-            <file>file:/D:/I.U.A/Globant/bootcamp/Practicos/ShoppingCart/web/creditCard.jsp</file>
-            <file>file:/D:/I.U.A/Globant/bootcamp/Practicos/ShoppingCart/web/transaccionRealizada.jsp</file>
-            <file>file:/D:/I.U.A/Globant/bootcamp/Practicos/ShoppingCart/web/paypal.jsp</file>
-            <file>file:/D:/I.U.A/Globant/bootcamp/Practicos/ShoppingCart/src/java/Clases/Item.java</file>
-            <file>file:/D:/I.U.A/Globant/bootcamp/Practicos/ShoppingCart/web/comprar.jsp</file>
-            <file>file:/D:/I.U.A/Globant/bootcamp/Practicos/ShoppingCart/src/java/Clases/Mail.java</file>
-            <file>file:/D:/I.U.A/Globant/bootcamp/Practicos/ShoppingCart/src/java/Clases/ItemColection.java</file>
-            <file>file:/D:/I.U.A/Globant/bootcamp/Practicos/ShoppingCart/web/visualizar.jsp</file>
-            <file>file:/D:/I.U.A/Globant/bootcamp/Practicos/ShoppingCart/web/cargar.jsp</file>
-            <file>file:/D:/I.U.A/Globant/bootcamp/Practicos/ShoppingCart/src/java/Servlet/Cargar.java</file>
-            <file>file:/D:/I.U.A/Globant/bootcamp/Practicos/ShoppingCart/web/cash.jsp</file>
-            <file>file:/D:/I.U.A/Globant/bootcamp/Practicos/ShoppingCart/src/java/Clases/ItemSingleton.java</file>
-            <file>file:/D:/I.U.A/Globant/bootcamp/Practicos/ShoppingCart/web/menu.jsp</file>
-            <file>file:/D:/I.U.A/Globant/bootcamp/Practicos/ShoppingCart/src/java/Servlet/Visualizar.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
