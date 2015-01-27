@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+">
+
+    <bean id="messageId" class="com.hubberspot.spring.CarritoSpring">
+        <property name="message" value="holla bro">
+            
+        </property>
+    </bean>
+    
+    <bean id="producto" class="com.hubberspot.topico4_Spring.Producto">
+        <constructor-arg type="int" value="1"></constructor-arg>
+        <constructor-arg type="java.lang.String" value="ferrari"></constructor-arg>
+        <constructor-arg type="double" value="40000"></constructor-arg>
+    </bean>
+    
+    <bean id="producto2" class="com.hubberspot.topico4_Spring.Producto">
+        <constructor-arg type="int" value="2"></constructor-arg>
+        <constructor-arg type="java.lang.String" value="lamborgini"></constructor-arg>
+        <constructor-arg type="double" value="60000"></constructor-arg>
+    </bean>
+    
+    <bean id="carrito" class="com.hubberspot.topico4_Spring.Carrito">
+        <constructor-arg ref="producto"></constructor-arg>
+        <constructor-arg ref="producto2"></constructor-arg>
+    </bean>
+    
+</beans>
